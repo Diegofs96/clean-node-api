@@ -16,7 +16,11 @@
   "license": "MIT",
   "devDependencies": {
     "husky": "^7.0.4",
+    "jest": "^27.5.1",
     "lint-staged": "^12.3.4",
     "standard": "^16.0.4"
+  },
+  "scripts": {
+    "test": "jest"
   }
 }
